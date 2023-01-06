@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>#RAFA40 route</name>
+    <description/>
+    <Style id="icon-1502-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.devfwd.com/geo/base_icon.png?1</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.devfwd.com/geo/base_icon.png?1</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.devfwd.com/geo/base_icon.png?1</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1603-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.devfwd.com/geo/base_icon.png?1</href>
+        </Icon>
+        <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1603-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-1581-nodesc-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.581</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FF5252-1581-nodesc-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>2.3715</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FF5252-1581-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-1581-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-1581-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-1775-nodesc-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.775</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FF5252-1775-nodesc-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>2.6625</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FF5252-1775-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-1775-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-1775-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>1. RAF Goxhill</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.318447,53.6768091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. RAF North Killingholme</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2918732,53.6360345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3. RAF Elsham Wolds</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4247891,53.6078766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. RAF Kirmington (Humberside Ap)</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3494687,53.5761396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. RAF Hibaldstow</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5219924,53.4968133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6. RAF Kirton in Lindsey</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5768759,53.4622741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7. RAF Harpswell</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5824799,53.4081169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. RAF Sturgate</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6809062,53.3792502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. RAF Scampton</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5513087,53.3076173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10. RAF Wigsley</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7265374,53.2153414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11. RAF Swinderby</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6805322,53.1468012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12. RAF Waddington</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5222604,53.1671303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13. RAF Digby</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4449775,53.1010603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14. RAF Cranwell</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4874454,53.0283972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15. RAF Barkston Heath</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5584412,52.9619398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16. RAF Saltby</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7142239,52.8290747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17. RAF North Witham</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5976658,52.7939005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18. RAF Cottesmore</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6496475,52.7351508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 RAF North Luffenham</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6108521,52.6323361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20. RAF Spanhoe</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6184266,52.5606925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21. RAF Kings Cliffe</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4856887,52.5685963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22. RAF Deenethorpe</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5904451,52.5014819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23. RAF Grafton Underwood</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6446043,52.4211547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24. RAF Sywell (Sywell Aerodrome)</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7900246,52.3055048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25. RAF Podington</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6006821,52.2350715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26. RAF Thurleigh</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4679879,52.2316021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27. RAF Cardington</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4188498,52.1071818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28. RAF Cranfield (Cranfield Airport)</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6201227,52.0693947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29. RAF Silverstone</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0156702,52.0727231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30. RAF Finmere</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0626488,51.9835741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31. RAF Turweston</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1018746,52.0408014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32. RAF Hinton-in-the-Hedges</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2067168,52.0290003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33. RAF Barford St John</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3572639,52.0041735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34. RAF Upper Heyford</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.2521151,51.9370967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35. RAF Bicester</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1316518,51.9167191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36. RAF Oakley</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.0754947,51.7840899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37. RAF Thame</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9398178,51.776669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38. RAF Westcott</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9696495,51.8467545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39. RAF Wing</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7530545,51.9039371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40. RAF Cheddington</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.678392,51.8328915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41. RAF Halton</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7369091,51.7913965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Blyton</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6952203,53.4517657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Metheringham</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3472442,53.1342711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Desborough</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7981227,52.4674486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Harrington</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.8626674,52.3942877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20. RAF Wittering</name>
+        <styleUrl>#icon-1603-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4751933,52.613366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Leg 1</name>
+        <styleUrl>#line-FF5252-1775-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -0.318447,53.6768091,0
+            -0.2918732,53.6360345,0
+            -0.4247891,53.6078766,0
+            -0.3494687,53.5761396,0
+            -0.5219924,53.4968133,0
+            -0.5768759,53.4622741,0
+            -0.5824799,53.4081169,0
+            -0.6809062,53.3792502,0
+            -0.5513087,53.3076173,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leg 2</name>
+        <styleUrl>#line-FF5252-1775-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -0.5513087,53.3076173,0
+            -0.7265374,53.2153414,0
+            -0.6805322,53.1468012,0
+            -0.5222604,53.1671303,0
+            -0.4449775,53.1010603,0
+            -0.4874454,53.0283972,0
+            -0.5584412,52.9619398,0
+            -0.7142239,52.8290747,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>RAF Enstone</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4306677,51.9310497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RAF Weston-on-the-Green</name>
+        <styleUrl>#icon-1502-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.221694,51.8791429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leg 5</name>
+        <styleUrl>#line-FF5252-1581-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -1.1018746,52.0408014,0
+            -1.2067168,52.0290003,0
+            -1.3572639,52.0041735,0
+            -1.2521151,51.9370967,0
+            -1.0626488,51.9835741,0
+            -1.1316518,51.9167191,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leg 6</name>
+        <styleUrl>#line-FF5252-1581-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -1.1316518,51.9167191,0
+            -1.0754947,51.7840899,0
+            -0.9398178,51.776669,0
+            -0.9696495,51.8467545,0
+            -0.7530545,51.9039371,0
+            -0.678392,51.8328915,0
+            -0.7369091,51.7913965,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leg 3</name>
+        <styleUrl>#line-FF5252-1775-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -0.7142239,52.8290747,0
+            -0.5976658,52.7939005,0
+            -0.6496475,52.7351508,0
+            -0.6108521,52.6323361,0
+            -0.4856887,52.5685963,0
+            -0.6184266,52.5606925,0
+            -0.5904451,52.5014819,0
+            -0.6446043,52.4211547,0
+            -0.7900246,52.3055048,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leg 4</name>
+        <styleUrl>#line-FF5252-1581-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -0.7900246,52.3055048,0
+            -0.6006821,52.2350715,0
+            -0.4679879,52.2316021,0
+            -0.6201227,52.0693947,0
+            -1.0156702,52.0727231,0
+            -1.1018746,52.0408014,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
